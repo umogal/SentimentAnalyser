@@ -3,7 +3,7 @@
 
 Developed as a command-line utility in Python, this tool analyzes sentiment and extracts key features from textual data.
 
-Initially created locally in my spare time for experimentation and learning, the GitHub repository was established after ensuring the tool was designed for reliable operation in production environments. 
+Initially created locally in my spare time for experimentation and learning, the GitHub repository was established after ensuring the tool was designed for reliable operation in production environments (?)  Things might break, see below.
 
 # **W.I.P : Expect Breaking Changes and Awesome New Features** 
 
