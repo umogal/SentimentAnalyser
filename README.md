@@ -1,6 +1,6 @@
 ### Will overhaul and make better W.I.P do not use
 
-### Customer Feedback Sentiment and Text Analysis Tool
+###  Feedback Sentiment and Text Analysis Tool
 
 Developed as a command-line utility in Python, this tool analyzes sentiment and extracts key features from textual data.
 
@@ -8,7 +8,7 @@ Initially created locally in my spare time for experimentation and learning, the
 
 # **W.I.P : Expect Breaking Changes and Awesome New Features** 
 
-**Looking for contributors!**
+
 
 >  **License & Usage:**
 > CustomerSentimentAnalyser™ is a trademark of umogal, © 2025 umogal. All rights reserved. This FOSS project is licensed under the **AGPL-3.0**. **Free for personal and commercial use** under the AGPL terms. **Unauthorized reselling, relicensing, or white-labeling** requires written permission. Contact me directly for licensing.
