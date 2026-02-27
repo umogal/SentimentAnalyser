@@ -1,6 +1,6 @@
 ### Will overhaul and make better W.I.P do not use
 
-###  Feedback Sentiment and Text Analysis Tool
+###  Text Sentiment and Text Analysis Tool
 
 Developed as a command-line utility in Python, this tool analyzes sentiment and extracts key features from textual data.
 
